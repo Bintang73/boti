@@ -1,0 +1,25 @@
+{
+  "name": "nodebot",
+  "version": "1.0.0",
+  "description": "WhatsApp Bot Create Using NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "NezukoDev",
+  "license": "ISC",
+  "dependencies": {
+    "@adiwajshing/baileys": "github:adiwajshing/baileys",
+    "axios": "^0.21.1",
+    "cfonts": "^2.9.3",
+    "chalk": "^4.1.2",
+    "crypto": "^1.0.1",
+    "file-type": "^16.5.3",
+    "fluent-ffmpeg": "^2.1.2",
+    "form-data": "^4.0.0",
+    "moment": "^2.29.1",
+    "moment-timezone": "^0.5.33",
+    "node-fetch": "^2.6.1",
+    "yt-search": "^2.10.1"
+  }
+}
